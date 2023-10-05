@@ -17,4 +17,20 @@ Follow the steps below to set up and run the server on your local machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/createServer
+   git clone https://github.com/vivekm56/createServer.git
+   
+2. **Navigate to the Project Directory:**
+   
+   cd createServer
+   
+3. **Build and Run the Server:**
+
+   go build
+   ./goserver-crud
+
+4.**Access the API:**
+
+   The API will be running at `http://localhost:8080`. You can use tools like Postman or curl to interact with the CRUD endpoints.
+
+
+
