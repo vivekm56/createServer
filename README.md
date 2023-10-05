@@ -26,7 +26,7 @@ Follow the steps below to set up and run the server on your local machine:
 3. **Build and Run the Server:**
 
    go build
-   ./goserver-crud
+   ./createServer
 
 4.**Access the API:**
 
